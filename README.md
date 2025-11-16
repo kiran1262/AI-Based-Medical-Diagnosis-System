@@ -187,7 +187,7 @@ SymptomCheckerAI/
 5. Open a Pull Request
 
 ## 📞 Support
-For support, email: galekkala5@gmail.com or join our Slack channel.
+For support, email: kirankumar21032004@gmail.com or join our Slack channel.
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
